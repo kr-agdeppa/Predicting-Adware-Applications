@@ -1,3 +1,3 @@
 # Predicting-Adware-Applications
 
-<img src="adware-banner.png">
+<img src="adware-banner1.png">
